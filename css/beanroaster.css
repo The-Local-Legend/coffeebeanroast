@@ -100,3 +100,23 @@ footer {
     top: 177px;
     z-index: 0;
 }
+#load-image15{
+    width: 15%;
+}
+#load-image61{
+    width: 61%;
+}
+#load-image24{
+    width: 24%;
+    align: center;
+}
+#load-image20{
+    width: 20%;
+    align:left;
+}
+#load-image80{
+    width: 80%;
+}
+#comments{
+    float: center;
+}
